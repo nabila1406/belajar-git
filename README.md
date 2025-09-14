@@ -1,2 +1,2 @@
 # belajar-git
-belajar git
+belajar menggunakan git
